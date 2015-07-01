@@ -1,1 +1,3 @@
-My home town is Stouffville, Ontario.
+## Welcome to Stouffville, Ontario
+
+- Strawberry capital of Canada!
